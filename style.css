@@ -4,6 +4,7 @@
   padding: 0;
   margin: 0;
   max-width: unset;
+  line-height: 0;
 }
 .col {
   padding: 0;
