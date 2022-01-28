@@ -6,13 +6,13 @@
   max-width: unset;
   line-height: 0;
 }
-.col {
+[class^='col'] {
   padding: 0;
 }
+
 iframe {
   width: 100%;
 }
-
 iframe.chat{
   height: 75vh;
 }
