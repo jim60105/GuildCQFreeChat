@@ -10,5 +10,11 @@
 }
 iframe {
   width: 100%;
-  height: 100vh;
+}
+
+iframe.chat{
+  height: 70vh;
+}
+iframe.player{
+  height: 30vh;
 }
